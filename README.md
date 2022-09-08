@@ -1,7 +1,7 @@
 # Introdução
 
 ## O que é o git? 
-# A TUA MÃE!
+# A TUA MÃE!(a tua, não a minha!)
 
 O git é um software que serve para fazer **controle de versão**.
 Isto é, ele serve para que a gente possa guardar as versões diferentes dos nossos arquivos.
